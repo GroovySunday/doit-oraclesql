@@ -1,6 +1,6 @@
 -- 실습 5-1
 SELECT *
-  FROM EMP
+  FROM EMP;
 
 -- 실습 5-2
 SELECT *
