@@ -5,7 +5,7 @@ sqlplus sys/oracle as sysdba
 ALTER SESSION SET "_oracle_script"=true;
 
 -- 실습 3-2
-reate user scott
+create user scott
 identified by tiger
 default tablespace users quota unlimited on users;
 
